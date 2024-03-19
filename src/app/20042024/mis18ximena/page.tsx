@@ -12,7 +12,6 @@ import downDesktop from '../../../../public/assets/images/desktop/down-desktop.p
 
 import upMobile from '../../../../public/assets/images/mobile/up-mobile.png';
 import downMobile from '../../../../public/assets/images/mobile/down-mobile.png';
-import webIcon from '../../../../public/assets/images/web-icon.png';
 
 import { colors } from "@/utils/colors";
 import Timer from "@/components/Timer";
